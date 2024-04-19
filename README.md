@@ -4,8 +4,8 @@ Imagine agora, que você vai atuar como Expert em Data Analytics em uma empresa 
 
 Sua área é recém-criada dentro da empresa, e você será responsável pelos relatórios iniciais a serem apresentados em uma reunião de investidores e acionistas, explicando a quantidade de vinhos exportados e os fatores externos que podem vir a surgir e que interferem nas análises:
 
-1. Dados climaáticos
-2. Dados democráficos
+1. Dados climáticos
+2. Dados demográficos
 3. Dados econômicos
 4. Dados de avaliação de vinhos
 
